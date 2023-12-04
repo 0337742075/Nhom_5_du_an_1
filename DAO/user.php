@@ -1,4 +1,4 @@
-<?php
+<?php #vinhbadboiz
 // require_once 'pdo.php';
 
 function user_insert($username, $password, $email){
