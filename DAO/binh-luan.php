@@ -1,4 +1,4 @@
-<?php
+<?php #thanhtam
 require_once 'pdo.php';
 
 function binh_luan_insert($ma_kh, $ma_hh, $noi_dung, $ngay_bl){
