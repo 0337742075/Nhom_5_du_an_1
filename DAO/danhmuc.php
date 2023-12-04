@@ -1,7 +1,7 @@
 <?php
 require_once 'pdo.php';
 
-#nguyentrongnghia
+#honghoa
 
 // /**
 //  * Thêm loại mới
