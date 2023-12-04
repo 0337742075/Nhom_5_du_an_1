@@ -1,6 +1,8 @@
 <?php
 require_once 'pdo.php';
 
+#nguyentrongnghia
+
 // /**
 //  * Thêm loại mới
 //  * @param String $ten_loai là tên loại
